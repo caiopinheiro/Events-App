@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<calendario>
+
+	<evento-item>
+		<tag>INS</tag>
+		<nome>Inscrição</nome>
+		<horarios>
+			<duracao>8:00-8:30</duracao>
+		</horarios>
+		<datas>
+			<data>11/11/2013</data>
+			<data>12/11/2013</data>
+			<data>13/11/2013</data>
+			<data>14/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>COFB</tag>
+		<nome>Coffe Break</nome>
+		<horarios>
+			<duracao>10:00-10:30</duracao>
+			<duracao>16:00-16:30</duracao>
+		</horarios>
+		<datas>
+			<data>11/11/2013</data>
+			<data>12/11/2013</data>
+			<data>13/11/2013</data>
+			<data>14/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>ALM</tag>
+		<nome>Almoço</nome>
+		<horarios>
+			<duracao>12:30-14:30</duracao>
+		</horarios>
+		<datas>
+			<data>11/11/2013</data>
+			<data>12/11/2013</data>
+			<data>13/11/2013</data>
+			<data>14/11/2013</data>
+		</datas>
+	</evento-item>
+
+	<evento-item>
+		<tag>WTICG</tag>
+		<nome>Workshop de Trabalhos de Iniciação Científica e de Graduação</nome>
+		<horarios>
+			<duracao>8:30-10:00</duracao>
+			<duracao>10:30-12:30</duracao>
+			<duracao>14:30-16:00</duracao>
+			<duracao>16:30-18:30</duracao>
+		</horarios>
+		<datas>
+			<data>11/11/2013</data>
+		</datas>
+	</evento-item>
+		
+	<evento-item>
+		<tag>WGID</tag>
+		<nome>Workshop de Gestão de Identidades Digitais</nome>
+		<horarios>
+			<duracao>8:30-10:00</duracao>
+			<duracao>10:30-12:30</duracao>
+			<duracao>14:30-16:00</duracao>
+			<duracao>16:30-18:30</duracao>
+		</horarios>
+		<datas>
+			<data>11/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>MC1</tag>
+		<nome>Minicurso 1</nome>
+		<horarios>
+			<duracao>8:30-10:00</duracao>
+			<duracao>10:30-12:30</duracao>
+		</horarios>
+		<datas>
+			<data>11/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>MC2</tag>
+		<nome>Minicurso 2</nome>
+		<horarios>
+			<duracao>14:30-16:00</duracao>
+			<duracao>16:30-18:30</duracao>
+		</horarios>
+		<datas>
+			<data>11/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>ABE</tag>
+		<nome>Abertura</nome>
+		<horarios>
+			<duracao>19:00-19:30</duracao>
+		</horarios>
+		<datas>
+			<data>11/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>COQ</tag>
+		<nome>Coquetel</nome>
+		<horarios>
+			<duracao>19:30-21:00</duracao>
+		</horarios>
+		<datas>
+			<data>11/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>COQ</tag>
+		<nome>Coquetel</nome>
+		<horarios>
+			<duracao>19:30-21:00</duracao>
+		</horarios>
+		<datas>
+			<data>11/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>ST1</tag>
+		<nome>Sessão técnica 1</nome>
+		<horarios>
+			<duracao>8:30-10:00</duracao>
+		</horarios>
+		<datas>
+			<data>12/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>ST2</tag>
+		<nome>Sessão técnica 2</nome>
+		<horarios>
+			<duracao>8:30-10:00</duracao>
+		</horarios>
+		<datas>
+			<data>12/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>PI1</tag>
+		<nome>Tutorial/Palestra Internacional 1</nome>
+		<horarios>
+			<duracao>10:30-12:30</duracao>
+		</horarios>
+		<datas>
+			<data>12/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>PI1</tag>
+		<nome>Palestra Internacional 1</nome>
+		<horarios>
+			<duracao>10:30-12:30</duracao>
+		</horarios>
+		<datas>
+			<data>12/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>TI1</tag>
+		<nome>Tutorial Internacional 1</nome>
+		<horarios>
+			<duracao>14:30-15:15</duracao>
+		</horarios>
+		<datas>
+			<data>12/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>PN1</tag>
+		<nome>Palestra Nacional 1</nome>
+		<horarios>
+			<duracao>15:15-16:00</duracao>
+		</horarios>
+		<datas>
+			<data>12/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>ST3</tag>
+		<nome>Sessão Técnica 3</nome>
+		<horarios>
+			<duracao>16:30-17:30</duracao>
+		</horarios>
+		<datas>
+			<data>12/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>ST4</tag>
+		<nome>Sessão Técnica 4</nome>
+		<horarios>
+			<duracao>17:30-18:30</duracao>
+		</horarios>
+		<datas>
+			<data>12/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>AC</tag>
+		<nome>Artigos Curtos</nome>
+		<horarios>
+			<duracao>16:30-18:30</duracao>
+		</horarios>
+		<datas>
+			<data>12/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>CESEG</tag>
+		<nome>Comissão Especial de Segurança da Informação da SBC</nome>
+		<horarios>
+			<duracao>19:00-21:00</duracao>
+		</horarios>
+		<datas>
+			<data>12/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>ST5</tag>
+		<nome>Sessão Técnica 5</nome>
+		<horarios>
+			<duracao>8:30-10:00</duracao>
+		</horarios>
+		<datas>
+			<data>13/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>ST6</tag>
+		<nome>Sessão Técnica 6</nome>
+		<horarios>
+			<duracao>8:30-10:00</duracao>
+		</horarios>
+		<datas>
+			<data>13/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>TI2</tag>
+		<nome>Tutorial Internacional 2</nome>
+		<horarios>
+			<duracao>10:30-11:30</duracao>
+		</horarios>
+		<datas>
+			<data>13/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>PN2</tag>
+		<nome>Palestra Nacional 2</nome>
+		<horarios>
+			<duracao>11:30-12:30</duracao>
+		</horarios>
+		<datas>
+			<data>13/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>ST7</tag>
+		<nome>Sessão Técnica 7</nome>
+		<horarios>
+			<duracao>14:30-16:00</duracao>
+		</horarios>
+		<datas>
+			<data>13/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>ST8</tag>
+		<nome>Sessão Técnica 8</nome>
+		<horarios>
+			<duracao>14:30-16:00</duracao>
+		</horarios>
+		<datas>
+			<data>13/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>PI2</tag>
+		<nome>Palestra Internacional 2</nome>
+		<horarios>
+			<duracao>16:30-18:30</duracao>
+		</horarios>
+		<datas>
+			<data>13/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>JE</tag>
+		<nome>Jantar do Evento</nome>
+		<horarios>
+			<duracao>19:30-23:00</duracao>
+		</horarios>
+		<datas>
+			<data>13/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>FSC</tag>
+		<nome>Forúm de Segurança Coorporativa</nome>
+		<horarios>
+			<duracao>8:30-10:00</duracao>
+			<duracao>10:30-12:30</duracao>
+			<duracao>14:30-16:00</duracao>
+			<duracao>16:30-18:30</duracao>
+		</horarios>
+		<datas>
+			<data>14/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>WFC</tag>
+		<nome>Workshop de Forense Computacional</nome>
+		<horarios>
+			<duracao>8:30-10:00</duracao>
+			<duracao>10:30-12:30</duracao>
+			<duracao>14:30-16:00</duracao>
+			<duracao>16:30-18:30</duracao>
+		</horarios>
+		<datas>
+			<data>14/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>MC3</tag>
+		<nome>Minicurso 3</nome>
+		<horarios>
+			<duracao>8:30-10:00</duracao>
+			<duracao>10:30-12:30</duracao>
+		</horarios>
+		<datas>
+			<data>14/11/2013</data>
+		</datas>
+	</evento-item>
+	
+	<evento-item>
+		<tag>MC4</tag>
+		<nome>Minicurso 4</nome>
+		<horarios>
+			<duracao>14:30-16:00</duracao>
+			<duracao>16:30-18:30</duracao>
+		</horarios>
+		<datas>
+			<data>14/11/2013</data>
+		</datas>
+	</evento-item>
+	
+</calendario>
